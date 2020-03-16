@@ -12,6 +12,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World");
             Console.WriteLine("Good Morning");
             Console.WriteLine("Como você está hoje?");
+            Console.WriteLine("Tenha um bom dia");
 
             Console.ReadLine();
         }
